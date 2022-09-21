@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\appTestBD\appTestBD\bin\Debug\appTestBD.exe.config
+C:\Users\Usuario\source\repos\appTestBD\appTestBD\bin\Debug\appTestBD.exe
+C:\Users\Usuario\source\repos\appTestBD\appTestBD\bin\Debug\appTestBD.pdb
+C:\Users\Usuario\source\repos\appTestBD\appTestBD\obj\Debug\appTestBD.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\appTestBD\appTestBD\obj\Debug\appTestBD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\source\repos\appTestBD\appTestBD\obj\Debug\appTestBD.Form1.resources
+C:\Users\Usuario\source\repos\appTestBD\appTestBD\obj\Debug\appTestBD.Properties.Resources.resources
+C:\Users\Usuario\source\repos\appTestBD\appTestBD\obj\Debug\appTestBD.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\appTestBD\appTestBD\obj\Debug\appTestBD.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\appTestBD\appTestBD\obj\Debug\appTestBD.exe
+C:\Users\Usuario\source\repos\appTestBD\appTestBD\obj\Debug\appTestBD.pdb
